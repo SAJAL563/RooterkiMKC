@@ -10,7 +10,7 @@ Before installing the script, ensure you have Tampermonkey installed. Tampermonk
 ## Step 2: Install the Script
 Once Tampermonkey is installed, click the button below to install the script:
 
-[![Install This Script](https://img.shields.io/badge/Install-Script-brightgreen?style=for-the-badge)}(https://github.com/SAJAL563/RooterkiMKC/blob/main/rooterkimkc.js)
+[![Install This Script](https://img.shields.io/badge/Install-Script-brightgreen?style=for-the-badge)](https://github.com/SAJAL563/RooterkiMKC/blob/main/rooterkimkc.js)
 
 ## Step 3: Enable the Script
 After installation, ensure the script is enabled in the Tampermonkey dashboard.
